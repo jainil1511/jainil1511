@@ -1,4 +1,4 @@
-### Hi there, I'm jainil ! 👋
+### Hi there, I'm Jainil ! 👋
 
 Hi,My name is Jainil Darji,I'm Pursuing Graduation in Bachlor Engineering in Computer and Science Enginnering 4th year.I'm Proficient in php, mysql and Currently i am Working on Mean Stack.I believe in Lerning and Sharing. Beside programming, I love play Video Games,travelling and Being Social
 
