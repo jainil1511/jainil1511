@@ -6,7 +6,7 @@ Hi,My name is Jainil Darji,I'm Pursuing Graduation in Bachlor Engineering in Com
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Problem Solving Skills 
-- 🌱 I’m currently learning  Reactjs ,DS and Algorithm 
+- 🌱 I’m currently learning  Nodejs, Reactjs ,DS and Algorithm 
 - 💬 Ask me about Hollywood Movies, mems , Tech? or Whatever I love to Talk!
 - 📫 contact me : jainildarji007@gmail.com
 - 😄 Pronouns:He/him
